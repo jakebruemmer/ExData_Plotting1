@@ -1,0 +1,6 @@
+# Don't push zip or text files to the repo
+*.zip
+*.txt
+
+# Don't push the script that holds most of the code for the graphs
+take_home_project.R
